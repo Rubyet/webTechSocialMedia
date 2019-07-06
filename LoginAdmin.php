@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>Admin Login Page</h1>
-
+	
 	<form method="post" action="LoginChkAdmin.php">
 		<fieldset>
 			<legend>Login</legend>
@@ -18,7 +18,7 @@
 				<tr>
 					<td>Password </td>
 					<td>:</td>
-					<td><input type="text" name="pass"></td>
+					<td><input type="password" name="pass"></td>
 				</tr>
 				<tr>
 					<td></td>
